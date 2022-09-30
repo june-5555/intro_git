@@ -2,3 +2,4 @@
 変更したよー
 ・git add
 ・git commit
+・git rm
